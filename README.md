@@ -1,14 +1,13 @@
 # Tracalorie
-uilt Tracalorie, a dynamic web app to track meals and calories, using pure JavaScript and JS Module Pattern
+Built Tracalorie, a dynamic web app to track meals and calories, using pure JavaScript and JS Module Pattern
 
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
-* Leveraged CSV data with Python Numpy Library
-* Saved States that user was not able to find into a new CSV
-* Created Game Visualizations with Python Turtle Library
+* Organized application into different controllers, ensuring efficient management, smoother UX, and better performance. 
+* Optimized app performance by avoiding frameworks, utilizing local storage for persistent user data.
 
 
 ## Video Walkthrough
